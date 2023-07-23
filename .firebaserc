@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "shield-0114",
+    "staging": "shield-0114"
+  },
+  "targets": {},
+  "etags": {}
+}
